@@ -419,9 +419,9 @@ int main()
   cout<<"\n\n\n\t\t\t\t Enter to Continue";
   getchar();
   //clrscr();
-  cout<<"\n\n\n\t\t\tPress 1 for Admin Portal";
-  cout<<"\n\t\t\tPress 2 for Faculty Portal";
-  cout<<"\n\t\t\tPress 3 for Student Portal";
+ cout<<"\n\n\n\t\t\tPress 1 for Admin Portal";
+  cout<<"\n\t\t\t\t Press 2 for Faculty Portal";
+  cout<<"\n\t\t\t\t Press 3 for Student Portal";
   cout<<"\n\n\t\t\tEnter Your Choice: ";
   cin>>ch;
   //clrscr();
